@@ -1,0 +1,8 @@
+Origin: Lucky's repo
+Label: Lucky's repo
+Suite: stable
+Version: 1.0
+Codename: LuckyRepo
+Architectures: iphoneos-arm
+Components: main
+Description: Lucky's Cydia Repository
